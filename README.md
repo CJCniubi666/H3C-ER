@@ -2,7 +2,7 @@
 
 **Product**: ER series router
 
-**version**: all
+**version**: ER3260G2,ER5200G2,ER3200G2,ER2100n,ER6300G2,ER5100G2,ER2200G2
 
 **rating**: high-risk
 
